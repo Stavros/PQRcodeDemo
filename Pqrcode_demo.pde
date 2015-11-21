@@ -6,12 +6,13 @@ import pqrcode.*;
  Generate images and a text file with url from a QRcode generator such as
  http://qrcode.kaywa.com/ and put them in this sketch's
  data folder.
+ 
  Press spacebar to read from the camera, generate an image,
  and scan for barcodes.  Press f to read from a file and scan.
  Press s for camera settings.
  Press x to save url into a text file.
- Created Oct 2012
- by Stavros Kalapothas (stavros@ubinet.gr)
+ 
+ Created Oct 2012 by Stavros Kalapothas (stavros@ubinet.gr)
  based on the code from Tom Igoe / Daniel Shiffman (http://shiffman.net/p5/qrcode-processing/)
  */
 
